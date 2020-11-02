@@ -1,4 +1,4 @@
 #include <stdio.h>
 
-void Suma();
+int Suma();
 int Resta();
