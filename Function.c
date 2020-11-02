@@ -1,0 +1,7 @@
+void Suma()
+{
+}
+
+void Resta()
+{
+}
