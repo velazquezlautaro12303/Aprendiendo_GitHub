@@ -2,3 +2,4 @@
 
 int Suma();
 int Resta();
+int multiplicacion();
